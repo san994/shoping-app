@@ -1,0 +1,72 @@
+[
+    {
+        "productId":"product1",
+        "ProductName":"Refined Oil",
+        "Description":"Cooking Oil",
+        "Brand":"Saffola",
+        "Price":"20"
+    },
+    {
+        "productId":"product2",
+        "ProductName":"Refined Oil",
+        "Description":"Cooking Oil",
+        "Brand":"Fortune",
+        "Price":"25"
+    },
+    {
+        "productId":"product3",
+        "ProductName":"Wheat Flour",
+        "Description":"Flour",
+        "Brand":"Shakti Bhog",
+        "Price":"35"
+    },
+    {
+        "productId":"product4",
+        "ProductName":"Wheat Flour",
+        "Description":"Flour",
+        "Brand":"Ashirwad",
+        "Price":"30"
+    },
+    {
+        "productId":"product5",
+        "ProductName":"Tuar Dal",
+        "Description":"Dal",
+        "Brand":"Pihu",
+        "Price":"20"
+    },
+    {
+        "productId":"product6",
+        "ProductName":"Tuar Dal",
+        "Description":"Dal",
+        "Brand":"Organic",
+        "Price":"40"
+    },
+    {
+        "productId":"product7",
+        "ProductName":"Basmati Rice",
+        "Description":"Rice",
+        "Brand":"Pihu",
+        "Price":"45"
+    },
+    {
+        "productId":"product8",
+        "ProductName":"Basmati Rice",
+        "Description":"Rice",
+        "Brand":"Dawat",
+        "Price":"46"
+    },
+    {
+        "productId":"product9",
+        "ProductName":"Tooth Paste",
+        "Description":"Tooth Paste",
+        "Brand":"Colgate",
+        "Price":"10"
+    },
+    {
+        "productId":"product10",
+        "ProductName":"Tooth Paste",
+        "Description":"Tooth Paste",
+        "Brand":"Closeup",
+        "Price":"15"
+    }
+]
